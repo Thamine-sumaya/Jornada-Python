@@ -3,11 +3,11 @@ Exercício de Analise de dados com Python
 
 ## Sobre o Projeto
 
-Exercício simples de automatização de tarefas utilizando principalmente a ferramenta pyautogui, na linguagem Python.
+Exercício simples de analise de dados utilizando principalmente a ferramenta pandas e plotly, na linguagem Python.
 
 ## Funcionalidades
 
-A tarefa a ser automatizada é a de adicionar produtos em um sistema, o programa automaticamente abre o navegador do sistema windows acessa a conta do usuário e insere os dados em ordem.
+O intuíto do exercício é descobrir quais assinantes mais cancelam a assinatura da empresa, apresentando gráficos e estimando quanto a porcentagem de cancelamento diminuiria se houvessem estratégias focadas em resolver essas falhas.
 
 
 
