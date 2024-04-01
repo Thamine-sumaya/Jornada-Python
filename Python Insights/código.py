@@ -1,5 +1,5 @@
 import pandas as pd
-tabela = pd.read_csv('Cópia de cancelamentos.csv') 
+tabela = pd.read_csv('Cópia de cancelamentos_sample.csv') 
 tabela = tabela.drop(columns=["CustomerID", "idade"])
 print(tabela) 
 print(tabela.info())
