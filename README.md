@@ -45,7 +45,7 @@ Para reproduzir os resultados ou experimentar com o código, siga estas etapas:
 
 ## Contribuição
 
-Esse projeto não está aberto para contribuições, é apenas uma demonstração dos conhecimentos adquiridos durante a imersão.
+Esse projeto não está aberto para contribuições, é apenas uma demonstração dos conhecimentos adquiridos durante a jornada.
 
 
 
