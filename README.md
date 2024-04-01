@@ -6,7 +6,7 @@
 
 ## Visão Geral
 
-Este repositório contém o código e os arquivos relacionados ao projeto proporcionado pela Jornada Python da Hashtag Treinamentos. O projeto foi desenvolvido como parte de um desafio específico e aborda questões de análise de dados, machine learning, desenvolvimento de sites e automatização de tarefas.
+Este repositório contém o código e os arquivos relacionados ao projeto proporcionado pela Jornada Python da Hashtag Treinamentos. Os projetos foram desenvolvidos como parte de um desafio específico e abordam diversas questões como: análise de dados, machine learning, desenvolvimento de sites e automatização de tarefas.
 
 ## Objetivo
 
