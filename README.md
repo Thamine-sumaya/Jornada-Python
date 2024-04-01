@@ -12,7 +12,7 @@ Este repositório contém o código e os arquivos relacionados ao projeto propor
 
 O objetivo principal deste projeto é desenvolver habilidades em Python, por meio da prática.
 
-## Projetos da Imersão
+## Projetos da Jornada
 <a href="">
    <img src="https://github.com/Thamine-sumaya/analise-de-dados-in-python-teste/blob/main/imagens/anota%C3%A7%C3%B5es%20dark%20mode.png?raw=true" alt="anotações" width="100" >
 </a>
