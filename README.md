@@ -13,9 +13,9 @@ Este repositório contém o código e os arquivos relacionados ao projeto propor
 O objetivo principal deste projeto é desenvolver habilidades em Python, por meio da prática.
 
 ## Projetos da Jornada
-<a href="">
+<!---<a href="">
    <img src="https://github.com/Thamine-sumaya/analise-de-dados-in-python-teste/blob/main/imagens/anota%C3%A7%C3%B5es%20dark%20mode.png?raw=true" alt="anotações" width="100" >
-</a>
+</a>---->
 
 ### Projeto 1
 [Python Power Up](https://github.com/Thamine-sumaya/Jornada-Python/blob/main/Python%20Power%20Up/autotask.py) - Automação de Tarefas e Criação de Bots com Python
